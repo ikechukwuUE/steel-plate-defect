@@ -13,7 +13,7 @@ The dataset used for this project consists of various features related to the su
 
 ## Modeling and Evaluation
 
-Several machine learning models were developed for this project, including Gradient Boosting and a neural network. Additionally, an ensemble model comprising XGBoost and a neural network was trained. The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The ensemble model, consisting of XGBoost and a neuralf network, achieved an accuracy of 83% on the validation dataset, demonstrating its effectiveness in predicting steel plate faults.
+Several machine learning models were developed for this project, including Gradient Boosting and a neural network. Additionally, an ensemble model comprising XGBoost and a neural network was trained. The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The ensemble model, consisting of XGBoost and a neural network, achieved an accuracy of 83% on the validation dataset, demonstrating its effectiveness in predicting steel plate faults.
 
 ![neural net ensemble model](./images/neuralnet_ensemble_model.png)
 
